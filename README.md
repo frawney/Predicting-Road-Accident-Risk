@@ -2,7 +2,7 @@
 Predict the likelihood of accidents on different types of roads
 
 ## Project Overview
-This project is part of the Kaggle Playground Competition. The goal is to predict the likelihood of road accidents (a continuous target between 0 and 1). The dataset was created using a deep learning model trained on the original Simulated Roads Accident dataset, with feature distributions closely resembling—but not identical to—the original data. Submissions are evaluated using Root Mean Squared Error (RMSE) between predicted and actual accident_risk values.
+The goal is to predict the likelihood of road accidents (a continuous target between 0 and 1). The dataset was created using a deep learning model trained on the original Simulated Roads Accident dataset, with feature distributions closely resembling—but not identical to—the original data. Submissions are evaluated using Root Mean Squared Error (RMSE) between predicted and actual accident_risk values.
 
 ## Objective
 Build a machine learning model to predict accident_risk based on various road and environmental features
